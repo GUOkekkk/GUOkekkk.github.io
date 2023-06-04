@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - GUOkekkk
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - GUOkekkk/Literature
+  - GUOkekkk/awesome_AGI4Robotics
+  - Visual-Behavior/aloception-oss
+  - GUOkekkk/VI-SLAM_PX4Vision
+  - GUOkekkk/LI-SLAM_TurtleBot2
