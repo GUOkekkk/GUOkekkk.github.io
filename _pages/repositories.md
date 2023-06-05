@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /repo/
 title:
 description:
 nav: true
