@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Submenus
 nav: true
 nav_order: 6
 dropdown: true
-children: 
-    - title: publications
-      permalink: /publications/
+children:
+    - title: Sports
+      permalink: /sports/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Music
+      permalink: /music/
+    - title: divider
+    - title: Photography
+      permalink: /photography/
 ---

@@ -2,96 +2,163 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ke GUO
+    - name: Birthday
+      value: 18th Oct. 1998
+    - name: Birthplace
+      value: Datong, Shanxi, China
     - name: Languages
-      value: English, German
+      value: Chinese (native), English (professional), French (basic), Japanese (basic)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master degree candidate in Advanced Robotics
+      institution: Ecole Centrale de Nantes, France
+      year: 2021-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - GPA:3.54/4
 
-- title: Experience
+    - title: Exchange program in Signal, Control and Robotics
+      institution: Ecole Centrale de Nantes, France
+      year: 2020-2021
+      description:
+        - GPA:16.9/20
+
+    - title: Bachelor degree in Mathematics(in Information and Computing Science track)
+      institution: Harbin Institute of Technology at Weihai, China
+      year: 2017-2021
+      description:
+        - GPA:82.37/100; Rank:12/59
+
+    - title: Senior high school degree in Science
+      institution: Datong City No.1 High School, China
+      year: 2014-2017
+      description:
+        - Top 1% in the National College Entrance Examination
+
+    - title: Junior high school degree
+      institution: Datong Foreign Language School, China
+      year: 2011-2014
+      description:
+        - Top 1% in the Senior High School Entrance Examination
+
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: SLAM Intern
+      institution: Visual Behavior, Lyon, France
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - A 6 months internship, mainly take charge of the improvement on SLAM system based on deep learning method supervised by <a href="https://www.linkedin.com/in/thibaultneveu/">Thibault Neveu</a>.
+
+    - title: Research Assistant
+      institution: Laboratoire des Sciences du Numérique de Nantes (LS2N), Nantes, France
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Work with <a href="https://www.linkedin.com/in/nfrancinelli/">Nicolás Francinelli</a> and supervised by Professor <a href="http://pagesperso.ls2n.fr/~kermorgant-o/">Olivier Kermorgant</a> on the project of <a href="https://github.com/GUOkekkk/VI-SLAM_PX4Vision">"Visual SLAM with PX4-Vision"</a>.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Data Science Lab, Harbin Institute of Technology at Weihai, Weihai, China
+      year: 2019-2021
       description:
+        - Supervised by Professor <a href="http://pagesperso.ls2n.fr/~kermorgant-o/">Huan Su</a> on the track of "Practical Application of Deep Learning and Machine Learning methods".
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Junior Java Developer Intern
+      institution: Jinxiandai Company, Jinan, China
+      year: 2019-2020
+      description:
+        - A 2 months internship, trained in Java skills at the company, implement an offline news website using MySQL and Java.
 
-- title: Open Source Projects
+    - title: Assistant Engineer Intern
+      institution: Product Center of Shanxi Diesel Engine Industry Co., Ltd, Datong, China
+      year: 2018
+      description:
+        - A 3 months internship, use python to process and analyse sales data stored in excel files.
+
+- title: Voluntary Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Drop-in Tutoring
+      year: 2020-present
+      description:
+        - Tutoring volunteer for Computer Vision, Artificial Intelligence, Mathematics, Python, C++, ect.
+
+    - title: Volunteer Teacher for Left-behind Children
+      year: 2018
+      description:
+        - One month volunteer teacher for left-behind children in a village in Shandong Province, China.
+
+    - title: Nursing Home Volunteer
+      year: 2014
+      description:
+        - Caring for the elderly in a nursing home and was reported by local TV station in Datong, China.
+
+- title: Other Experience
+  type: time_table
+  contents:
+    - title: Member of the Science College basketball team in HIT
+      year: 2017-2021
+
+    - title: The student representative of the Mathematics Department in HIT
+      year: 2018
+
+    - title: Member of the Academic Department of the Science College Student Union in HIT
+      year: 2018
+
+    - title: Member of the Publicity Department of the the Center of Work-Study Management in HIT
+      year: 2018
+# projects
+# publications
+
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2018
+      items:
+        - School-level silver award, "Internet +" Innovation and Entrepreneurship Competition in HIT, China
+        - Second prize, National College Students Mathematical Contest in Modeling, China
+
+    - year: 2019
+      items:
+        - Second prize, National College Student Mathematics Competition, China
+        - Academic Progress Scholarship in HIT, China
+        - Level 2 Social Fitness Instructor, China
+        - Computer Level 2 in C++, China
+
+    - year: 2020
+      items:
+        - People's Scholarship(Top 15%) in HIT, China
+        - English Scholarship in HIT, China
+
+    - year: 2021
+      items:
+        - Centrale Nantes Elite Scholarship (6000€), France
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: Robotics
       items:
-        - Description 1.
-        - Description 2.
+        - SLAM
+        - Robot Vision
+        - AGI for Robotics
+        - Reinforcement Learning for Robotics
+
+    - title: Artificial Intelligence
+      items:
+        - Deep Learning
+        - Machine Learning
+        - Transformer
+        - Multi-modal Learning
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Sports
+    - Travel
+    - Music
+    - Photography
+    - Cooking
