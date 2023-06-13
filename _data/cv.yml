@@ -4,11 +4,16 @@
     - name: Full Name
       value: Ke GUO
     - name: Birthday
-      value: 18th Oct. 1998
+      value: Oct. 1998
     - name: Birthplace
       value: Datong, Shanxi, China
     - name: Languages
-      value: Chinese (native), English (professional), French (basic), Japanese (basic)
+      value: Chinese (native); English (professional); French (basic); Japanese (basic)
+    - name: Email
+      value: 13653629612@163.com; guoke9612@gmail.com
+    - name: Phone
+      value: +86 13653629612; +33 07 85 56 35 05
+
 
 - title: Education
   type: time_table
@@ -46,7 +51,7 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: SLAM Intern
+    - title: Research Engineer Intern
       institution: Visual Behavior, Lyon, France
       year: 2023
       description:
@@ -80,7 +85,7 @@
   type: time_table
   contents:
     - title: Drop-in Tutoring
-      year: 2020-present
+      year: 2020-now
       description:
         - Tutoring volunteer for Computer Vision, Artificial Intelligence, Mathematics, Python, C++, ect.
 
