@@ -209,7 +209,8 @@ kramdown:
 # Includes & excludes
 # '_pages/dropdown.md' , '_pages/repositories.md'
 # ', '_pages/dropdown.md', '_pages/sports.md', '_pages/music.md', '_pages/photography.md''
-include: ['_pages/cv.md', '_pages/about.md', '_pages/repository.md']
+include: ['_pages/cv.md', '_pages/about.md', '_pages/repository.md', '_pages/dropdown.md',
+'_pages/sports.md', '_pages/music.md', '_pages/photography.md', '_pages/travel.md']
 exclude:
   - bin
   - Gemfile

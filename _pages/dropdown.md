@@ -13,4 +13,7 @@ children:
     - title: divider
     - title: Photography
       permalink: /photography/
+    - title: divider
+    - title: Travel
+      permalink: /travel/
 ---

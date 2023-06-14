@@ -1,12 +1,12 @@
 ---
 layout: post
-permalink: /music/
-title: Music
+permalink: /travel/
+title: Travel
 date: 2023-06-14 21:01:00
-description: music
-tags: music
-categories: music
-thumbnail: assets/img/music.jpg
+description: travel
+tags: travel
+categories: travel
+thumbnail: assets/img/travel.jpg
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -16,4 +16,4 @@ thumbnail: assets/img/music.jpg
 <div class="caption">
     Keyboard, Ukulele
 </div>
-<!-- #and Irish flute -->
+<!-- and Irish flute -->
