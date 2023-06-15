@@ -6,7 +6,7 @@ date: 2023-06-14 21:01:00
 description: photography
 tags: photography
 categories: photography
-thumbnail: assets/img/ball2.jpg
+thumbnail: assets/img/photo5.jpg
 ---
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
