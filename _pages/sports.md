@@ -52,3 +52,24 @@ thumbnail: assets/img/ball2.jpg
 <div class="caption">
     At that time I was not too fat...
 </div>
+
+# Some Live
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sport1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="caption">
+    Lionel Messi & Kylian Mbappé
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sport2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="caption">
+    Victor Wembanyama
+</div>
