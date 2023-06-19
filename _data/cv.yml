@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Ke GUO
+      value: Ke GUO (郭轲)
     - name: Birthday
       value: Oct. 1998
     - name: Birthplace
@@ -10,10 +10,13 @@
     - name: Languages
       value: Chinese (native); English (professional); French (basic); Japanese (basic)
     - name: Email
-      value: 13653629612@163.com; guoke9612@gmail.com
+      value: 13653629612@163.com
+    - name:
+      value: guoke9612@gmail.com
     - name: Phone
-      value: +86 13653629612; +33 07 85 56 35 05
-
+      value: +86 13653629612
+    - name:
+      value: +33 07 85 56 35 05
 
 - title: Education
   type: time_table
@@ -34,7 +37,7 @@
       institution: Harbin Institute of Technology at Weihai, China
       year: 2017-2021
       description:
-        - GPA:82.37/100; Rank:12/59
+        - GPA:82.37/100
 
     - title: Senior high school degree in Science
       institution: Datong City No.1 High School, China
@@ -141,7 +144,8 @@
     - year: 2021
       items:
         - Centrale Nantes Elite Scholarship (6000€), France
-
+        - Erasmus Scholarship(demi-funding of two-year master programme) from <a href = 'https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/programmes-internationaux-PI/programmes-internationaux-KBVX7OX3/erasmus-mundus-qem-mathematiques-KBVXEHUS.html'> QEM </a> programme, Europe(Voluntarily gave up because of the choice of the major)
+        - Red Lion Science Scholarship(full funding to DPhil) provided by <a href = 'https://bigdas.hanyang.ac.kr/sang-wook/'> Data Science Lab </a> in Hanyang University, South Korea(Voluntarily gave up because of the choice of the major)
 - title: Academic Interests
   type: nested_list
   contents:
