@@ -70,7 +70,7 @@
       institution: Data Science Lab, Harbin Institute of Technology at Weihai, Weihai, China
       year: 2019-2021
       description:
-        - Supervised by Professor <a href="http://pagesperso.ls2n.fr/~kermorgant-o/">Huan Su</a> on the track of "Practical Application of Deep Learning and Machine Learning methods".
+        - Supervised by Professor <a href="http://homepage.hit.edu.cn/suhuan">Huan Su</a> on the track of "Practical Application of Deep Learning and Machine Learning methods".
 
     - title: Junior Java Developer Intern
       institution: Jinxiandai Company, Jinan, China
@@ -82,7 +82,7 @@
       institution: Product Center of Shanxi Diesel Engine Industry Co., Ltd, Datong, China
       year: 2018
       description:
-        - A 3 months internship, use python to process and analyse sales data stored in excel files.
+        - A 3 months internship, use python to process and analyse sales data stored in Excel files.
 
 - title: Voluntary Experience
   type: time_table
@@ -144,8 +144,8 @@
     - year: 2021
       items:
         - Centrale Nantes Elite Scholarship (6000€), France
-        - Erasmus Scholarship(demi-funding of two-year master programme) from <a href = 'https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/programmes-internationaux-PI/programmes-internationaux-KBVX7OX3/erasmus-mundus-qem-mathematiques-KBVXEHUS.html'> QEM </a> programme, Europe(Voluntarily gave up because of the choice of the major)
-        - Red Lion Science Scholarship(full funding to DPhil) provided by <a href = 'https://bigdas.hanyang.ac.kr/sang-wook/'> Data Science Lab </a> in Hanyang University, South Korea(Voluntarily gave up because of the choice of the major)
+        - Erasmus Scholarship(demi-funding of two-year master programme) from <a href = 'https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/programmes-internationaux-PI/programmes-internationaux-KBVX7OX3/erasmus-mundus-qem-mathematiques-KBVXEHUS.html'> QEM </a> programme, Europe(voluntarily gave up because of the choice of the major)
+        - Red Lion Science Scholarship(full funding to DPhil) provided by <a href = 'https://bigdas.hanyang.ac.kr/sang-wook/'> Data Science Lab </a> in Hanyang University, South Korea(voluntarily gave up because of the choice of the major)
 - title: Academic Interests
   type: nested_list
   contents:
