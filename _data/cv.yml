@@ -84,6 +84,30 @@
       description:
         - A 3 months internship, use python to process and analyse sales data stored in Excel files.
 
+- title: Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/GUOkekkk/RobotMotionPlanner">Robot Motino Planner</a>
+      year: 2023
+      description:
+        - This is a project to implement a 2D robot mortion planner based on three different path planning algorithms, RRT, PRM and A*.
+
+    - title: <a href="https://github.com/GUOkekkk/VI-SLAM_PX4Vision">SLAM with UAV</a>
+      year: 2022
+      description:
+        - The aim of this project is to perform visual inertial simultaneous localization and mapping with an UAV (Unmanned Aerial Vehicle)
+
+    - title: <a href="https://github.com/GUOkekkk/Worksapce_SCARA">SCARA Workspace</a>
+      year: 2022
+      description:
+        - This is a project to plot the workspace of the SCARA robot, with joint limits and a disk obstacle in the environment.
+
+    - title: <a href="https://github.com/GUOkekkk/LI-SLAM_TurtleBot2">Landmark Detection Based on TurtleBot</a>
+      year: 2020-2021
+      description:
+        - In this project, a Turtlebot2 with Kinect camera and Hokuyo lidar is used to map the environment, as well as detect ArUco markers and save their coordinates with their mark ID in a 2-dimensional array.
+
+
 - title: Voluntary Experience
   type: time_table
   contents:
