@@ -87,7 +87,7 @@
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/GUOkekkk/RobotMotionPlanner">Robot Motino Planner</a>
+    - title: <a href="https://github.com/GUOkekkk/RobotMotionPlanner">Robot Motion Planner</a>
       year: 2023
       description:
         - This is a project to implement a 2D robot mortion planner based on three different path planning algorithms, RRT, PRM and A*.
@@ -107,6 +107,31 @@
       description:
         - In this project, a Turtlebot2 with Kinect camera and Hokuyo lidar is used to map the environment, as well as detect ArUco markers and save their coordinates with their mark ID in a 2-dimensional array.
 
+    - title: <a href="https://github.com/GUOkekkk/TensorFlowLearn">Typical Deep Learning Model based on Tensorflow</a>
+      year: 2020
+      description:
+        - This is a project to implement some Deep Learning models I have learned based on python and mainly the package Tensorflow.
+
+    - title: <a href="https://github.com/GUOkekkk/NewWordInformationEntropy_python">New Chinese Word Extraction</a>
+      year: 2020
+      description:
+        - This project is a reproduction of the paper New word extraction recognition based on mutual information and left-right information entropy based on python. All of the code is created by myself.
+
+    - title: <a href="https://github.com/GUOkekkk/FootballTeamDecision">A Team Decision-making Model</a>
+      year: 2020
+      description:
+        - This is a project to do the football team decision making based on the network analysis and reinforcement learning.
+
+    - title: <a href="https://github.com/GUOkekkk/AirportTaxiScheduling_Matlab">Airport Taxi Scheduling Problem</a>
+      year: 2019
+      description:
+        - This project focuses on the scheduling of airport taxis to propose a selection strategy for airport taxi drivers.
+
+
+    - title: <a href="https://github.com/GUOkekkk/DesignGarments_matlab">Design of Garments</a>
+      year: 2018
+      description:
+        - In this project, a system consisting of three materials, a dummy and an air layer between them under high temperature conditions is constructed.
 
 - title: Voluntary Experience
   type: time_table
