@@ -28,6 +28,6 @@ I am currently a Master 2 student majoring in [Advanced Robotics](https://www.ec
 
 For now I am doing my internship as the research engineer supervised by [Thibault Neveu](https://www.linkedin.com/in/thibaultneveu/) in [Visual Behavior](https://visualbehavior.ai/), an excellent company located in Lyon, France, which focuses on the field of robot autonomy and computer vision.
 
-My passion lies at the intersection of innovation and technology, the academic and the industry, particularly within the field of robotics. My research focus centers around such as robotic vision, Simultaneous Localization and Mapping (SLAM), human-robot interaction, and the application of Artificial General Intelligence (AGI) in Robotics.
+My passion lies at the intersection of innovation and technology, the academic and the industry, particularly within the field of robotics. My research focus centers around such as Robot Vision, Simultaneous Localization and Mapping (SLAM), Human-robot Interaction, and the application of Artificial General Intelligence (AGI) in Robotics.
 
 I am driven by the ambition to harness the power of robotics in order to liberate human potential from the constraints of heavy manual labor, thus enabling individuals to concentrate more on innovative and creative pursuits and not to be limited by the predetermined answers given by the LLM 🙃 .
