@@ -8,7 +8,7 @@ profile:
   align: left
   image: profile.png
   image_circular: false # crops the image to make it circular
-  address: 79 Cr de la Liberté, 69003, Lyon, France
+  address: Pudong New Area, Shanghai, China
 
 
 news: false  # includes a list of news items
