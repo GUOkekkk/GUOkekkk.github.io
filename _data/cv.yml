@@ -17,15 +17,21 @@
       value: +86 13653629612
     - name:
       value: +33 07 85 56 35 05
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/KeGUOECN1/">KeGUO</a>
+    - name: GitHub
+      value: <a href="https://github.com/GUOkekkk">GUOkekkk</a>
+    - name: Homepage
+      value: <a href="https://guokekkk.github.io/">Ke Nash GUO</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: Master degree candidate in Advanced Robotics
+    - title: Master degree in Advanced Robotics
       institution: Ecole Centrale de Nantes, France
-      year: 2021-now
+      year: 2021-2024
       description:
-        - GPA:3.54/4
+        - 'GPA: 3.54/4; Rank: 1/27'
 
     - title: Exchange program in Signal, Control and Robotics
       institution: Ecole Centrale de Nantes, France
@@ -54,11 +60,25 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Robot Software Engineer (Full-Stack)
+      institution: ABB Robotics, Shanghai, China
+      year: 2025-now
+      description:
+        - Develop full-stack IoT and predictive-maintenance solutions using Python, C#, and TypeScript on a Docker-based microservices architecture.
+        - Lead projects spanning AI productivity tools, Physical AI, and robotics, applying technologies including NVIDIA Isaac Lab and LangChain to industrial use cases.
+        - Bridge software engineering, AI, and industrial automation to deliver scalable systems with measurable business impact.
+
+    - title: Trainee
+      institution: ABB Robotics, Shanghai, China
+      year: 2024-2025
+      description:
+        - Completed rotational training across painting and testing departments, covering robot commissioning, firmware testing, and system validation while collaborating with global teams.
+
     - title: Research Engineer Intern
       institution: Visual Behavior, Lyon, France
       year: 2023
       description:
-        - A 6 months internship, mainly take charge of the improvement on SLAM system based on deep learning method supervised by <a href="https://www.linkedin.com/in/thibaultneveu/">Thibault Neveu</a>.
+        - Developed deep-learning applications for SLAM, including Transformer-based camera pose estimation and BEV autonomous positioning, supervised by <a href="https://www.linkedin.com/in/thibaultneveu/">Thibault Neveu</a>.
 
     - title: Research Assistant
       institution: Laboratoire des Sciences du Numérique de Nantes (LS2N), Nantes, France
@@ -87,6 +107,54 @@
 - title: Projects
   type: time_table
   contents:
+    - title: IoT-Based Predictive Maintenance Platform for Spray-Painting Robots
+      institution: ABB Robotics, Shanghai, China
+      year: 2025-now
+      description:
+        - Developed and deployed a full-stack industrial IoT platform for robot data acquisition, real-time monitoring, and predictive maintenance using Docker-based microservices.
+        - Built a high-throughput NATS pipeline for telemetry from robots, PLCs over OPC UA, and the Integrated Painting System.
+        - Designed a pluggable algorithm pipeline and a React Flow interface for visual, drag-and-drop algorithm orchestration.
+        - '<strong>Tech Stack:</strong> TypeScript, C#, Python, React, ASP.NET Core, FastAPI, NATS, PostgreSQL, TimescaleDB, Docker, Nginx, and Azure DevOps.'
+
+    - title: MCP-Based Robot Control via ABB RWS
+      institution: ABB Robotics, Shanghai, China
+      year: MM/YYYY - MM/YYYY
+      description:
+        - Developed a Model Context Protocol server that exposes ABB Robot Web Services capabilities as standardized tools for AI agents.
+        - Wrapped robot operations and status queries provided by RWS, enabling AI agents to monitor and control ABB industrial robots through natural-language workflows.
+        - '<strong>Tech Stack:</strong> Python, MCP, ABB RWS, REST API, and AI Agents.'
+
+    - title: Vision-Language-Action Model Training with Isaac Lab Synthetic Data
+      institution: ABB Robotics, Shanghai, China
+      year: 2026
+      description:
+        - Developed realistic robotic simulation environments in NVIDIA Isaac Lab and collected manipulation demonstrations as LeRobot datasets.
+        - Trained and evaluated VLA models, including π0.5, in simulation before deployment to physical ABB industrial robots.
+        - '<strong>Tech Stack:</strong> Python, LeRobot, NVIDIA Isaac Lab, and VLA.'
+
+    - title: RAG-Based Internal Document Question-Answering System
+      institution: ABB Robotics, Shanghai, China
+      year: 2025
+      description:
+        - Developed a compliance-aware internal document question-answering system using Dify and retrieval-augmented generation.
+        - Built a heterogeneous document ingestion pipeline with Unstructured and implemented request auditing and structured query transformation for controlled Azure API access.
+        - '<strong>Tech Stack:</strong> Python, Dify, LangChain, Azure, and Unstructured.'
+
+    - title: Synthetic Image Generation with Isaac Sim and Replicator
+      institution: ABB Robotics, Shanghai, China
+      year: 2025
+      description:
+        - Built synthetic image-generation pipelines for robotic perception, configuring virtual environments, cameras, lighting, and object properties to produce annotated datasets.
+        - '<strong>Tech Stack:</strong> Python, NVIDIA Isaac Sim, Isaac Replicator, and Computer Vision.'
+
+    - title: Transformer-Based Visual SLAM
+      institution: Visual Behavior, Lyon, France
+      year: 2023
+      description:
+        - Designed a Transformer-based model to replace conventional PnP with direct camera-pose estimation from images.
+        - Integrated SuperPoint and LightGlue for robust feature detection and matching in a BEV visual-odometry front end, with training pipelines built in PyTorch Lightning.
+        - '<strong>Tech Stack:</strong> Python, PyTorch Lightning, Transformers, SuperPoint, and LightGlue.'
+
     - title: <a href="https://github.com/GUOkekkk/RobotMotionPlanner">Robot Motion Planner</a>
       year: 2023
       description:
@@ -173,6 +241,16 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - IP Star Award, ABB Robotics, China
+        - Training Star Award, ABB Robotics, China
+        - Outstanding Trainee, ABB Robotics, China
+
+    - year: 2023
+      items:
+        - Ecole Centrale de Nantes Outstanding Graduate Award, France
+
     - year: 2018
       items:
         - School-level silver award, "Internet +" Innovation and Entrepreneurship Competition in HIT, China
@@ -195,15 +273,35 @@
         - Centrale Nantes Elite Scholarship (6000€), France
         - Erasmus Scholarship(demi-funding of two-year master programme) from <a href = 'https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/programmes-internationaux-PI/programmes-internationaux-KBVX7OX3/erasmus-mundus-qem-mathematiques-KBVXEHUS.html'> QEM </a> programme, Europe(voluntarily gave up because of the choice of the major)
         - Red Lion Science Scholarship(full funding to DPhil) provided by <a href = 'https://bigdas.hanyang.ac.kr/sang-wook/'> Data Science Lab </a> in Hanyang University, South Korea(voluntarily gave up because of the choice of the major)
+
+- title: Technical Skills
+  type: map
+  contents:
+    - name: Programming Languages
+      value: Python, C#, C++, TypeScript, SQL
+    - name: AI & Computer Vision
+      value: PyTorch, PyTorch Lightning, OpenCV, DINO, Transformers
+    - name: Robotics & Simulation
+      value: ROS, NVIDIA Isaac Sim, Isaac Lab, Isaac Replicator
+    - name: Backend & Data
+      value: ASP.NET Core, FastAPI, NATS, PostgreSQL, TimescaleDB
+    - name: Frontend Development
+      value: React, React Flow, Tailwind CSS
+    - name: LLM & RAG
+      value: Dify, LangChain, Unstructured
+    - name: Development & DevOps
+      value: Linux, Docker, Nginx, Git, Azure CI/CD
+
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Robotics
       items:
-        - SLAM
-        - Robot Vision
-        - AGI for Robotics
-        - Reinforcement Learning for Robotics
+        - Physical AI
+        - Robot Perception & Control
+        - Vision-Language-Action Models
+        - Visual SLAM
+        - Human-Robot Collaboration
 
     - title: Artificial Intelligence
       items:
@@ -211,6 +309,12 @@
         - Machine Learning
         - Transformer
         - Multi-modal Learning
+
+    - title: Industrial Systems
+      items:
+        - Industrial IoT
+        - Predictive Maintenance
+        - Intelligent Robotics
 
 - title: Other Interests
   type: list

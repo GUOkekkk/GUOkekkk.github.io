@@ -1,0 +1,6 @@
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - _posts/2020-09-28-twitter.md

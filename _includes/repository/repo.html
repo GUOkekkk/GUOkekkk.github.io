@@ -6,9 +6,17 @@
   {% assign show_owner = true %}
 {% endif %}
 
-<div class="repo p-2 text-center">
-  <a href="https://github.com/{{ include.repository }}">
-    <img class="repo-img-light w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}">
-    <img class="repo-img-dark w-100" alt="{{ include.repository }}" src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&show_owner={{ show_owner }}">
-  </a>
-</div>
+<article class="repo repo-card" data-github-repo="{{ include.repository }}">
+  <div class="repo-card-heading">
+    <a class="repo-title" href="https://github.com/{{ include.repository }}">{{ repo_url[1] }}</a>
+    <span class="repo-visibility" data-repo-visibility>Public</span>
+  </div>
+  {% if show_owner %}<span class="repo-owner">{{ repo_url[0] }}</span>{% endif %}
+  <p class="repo-description" data-repo-description>Loading repository details...</p>
+  <div class="repo-meta">
+    <span data-repo-language hidden><i class="repo-language-dot" aria-hidden="true"></i><span></span></span>
+    <span title="Stars"><i class="fas fa-star" aria-hidden="true"></i> <span data-repo-stars>--</span></span>
+    <span title="Forks"><i class="fas fa-code-branch" aria-hidden="true"></i> <span data-repo-forks>--</span></span>
+    <span class="repo-updated" data-repo-updated></span>
+  </div>
+</article>
