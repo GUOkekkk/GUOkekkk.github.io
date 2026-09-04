@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
  -->
 
-I am currently working as a Robotics Software Engineer at ABB Robotics in Shanghai, China. My primary responsibilities focus on the research and development of paint robot systems, predictive maintenance and the Internet of Things (IoT), along with exploring cutting-edge technologies such as Computer Vision, and Physical AI to enhance robotic automation and intelligence.
+I am currently working as a Robotics Software Engineer at ABB Robotics in Shanghai, China. My primary responsibilities focus on the research and development of the combination of Physical AI and robotic use scenarios, the predictive maintenance of paint robot systems, and the Internet of Things (IoT).
 
 I got my master degree majoring in [Advanced Robotics](https://www.ec-nantes.fr/study/masters/advanced-robotics-coro-imaro) 🤖 at [Ecole Centrale de Nantes](https://www.ec-nantes.fr/), France. I am fortunate to be advised by Professor [Olivier Kermorgant](http://pagesperso.ls2n.fr/~kermorgant-o/). I obtained my Bachelor's degree in Mathematics📖(in Information and Computing Science track) supervised by Professor [Huan Su](http://homepage.hit.edu.cn/suhuan) from [HIT](http://en.hit.edu.cn/) in 2021.
 

@@ -1,6 +1,7 @@
 <div class="repo repo-profile" data-github-user="{{ include.username }}">
   <a class="repo-profile-main" href="https://github.com/{{ include.username }}">
-    <img class="repo-avatar" src="https://github.com/{{ include.username }}.png?size=160" alt="{{ include.username }} avatar" width="80" height="80">
+    <img class="repo-avatar" src="https://github.com/{{ include.username }}.png?size=160"
+      alt="{{ include.username }} avatar" width="80" height="80">
     <span class="repo-profile-copy">
       <strong class="repo-title" data-user-name>{{ include.username }}</strong>
       <span class="repo-handle">@{{ include.username }}</span>
@@ -8,8 +9,17 @@
     </span>
   </a>
   <dl class="repo-stats" aria-label="GitHub profile statistics">
-    <div><dt data-user-repos>--</dt><dd>Repositories</dd></div>
-    <div><dt data-user-followers>--</dt><dd>Followers</dd></div>
-    <div><dt data-user-following>--</dt><dd>Following</dd></div>
+    <div>
+      <dt data-user-repos>--</dt>
+      <dd>Repositories</dd>
+    </div>
+    <div>
+      <dt data-user-followers>--</dt>
+      <dd>Followers</dd>
+    </div>
+    <div>
+      <dt data-user-following>--</dt>
+      <dd>Following</dd>
+    </div>
   </dl>
 </div>
